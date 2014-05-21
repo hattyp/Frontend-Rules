@@ -19,5 +19,5 @@ None of these rules are personal, there is no agenda in the rules; it's all abou
 ## Rule 4: Contribute.
 The rules are not here to be written by one and followed by all, they are written by the team for the team. So contribute your ideas and best practices! See [How to Contribute](docs/rules-for-contributing.md).
 
-## Rule 6: It is what it is
-Naming conventions for selectors should be based on what they are rather than what they look like. Class names like 'bluetext', or 'redborder' become redundant if your colour scheme changes. A much better way to name your classes is with the role a certain HTML element of that class has.
+## Rule 7: No cosmetic surgery.
+Point for discussion - How are we approaching graceful degradation? I had a conversation with Daryl about him using images for buttons because of client demands meaning they wanted rounded corners in old versions of IE etc. I always thought we should put our feet down about this? or are there certain clients which are exceptions to the rule?
