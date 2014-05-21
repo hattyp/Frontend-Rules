@@ -27,4 +27,3 @@ The rules are not here to be written by one and followed by all, they are writte
 ## Rule 6: It is what it is
 Naming conventions for selectors should be based on what they are rather than what they look like. Class names like 'bluetext', or 'redborder' become redundant if your colour scheme changes. A much better way to name your classes is with the role a certain HTML element of that class has.
 
-
